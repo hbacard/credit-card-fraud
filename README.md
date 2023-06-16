@@ -1,2 +1,3 @@
-# datascience
-My Data Science projects
+# Credit card fraud detection
+
+We build an ML model that detects fraudulent credit card transactions.
